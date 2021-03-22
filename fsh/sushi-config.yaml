@@ -1,19 +1,16 @@
 id: cms.gov.bcda
-//canonical: http://hl7.org/fhir/us/core
 canonical: https://bcda.cms.gov/ig/index.html
 
 name: BCDA-IG
 status: active
 version: 2.0.0
 fhirVersion: 4.0.1
-//fhirVersion: 4.5.0
 copyrightYear: 2021+
 releaseLabel: Build CI
 publisher:
   name: HL7 US Realm Steering Committee
   url: http://www.healthit.gov
 jurisdiction: urn:iso:std:iso:3166#US "United States of America"
-//template: fhir.base.template#0.1.0
 
 menu:
   Home: index.html
