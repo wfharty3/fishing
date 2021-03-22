@@ -24,20 +24,3 @@ dependencies:
   hl7.fhir.us.carin-bb: 1.0.0
   hl7.fhir.us.core: 3.1.1
 
-
-#hl7.fhir.us.carin-bb#1.0.0
-
-#dependencies:
-#  carin-baseprofile:
-#      id: hl7.fhir.us.carin-bb
-#      uri: http://hl7.org/fhir/us/carin-bb/StructureDefinition/C4BB-ExplanationOfBenefit-Inpatient-Institutional
-#      version: 1.0.0
-#  hl7.fhir.no.basis:
-#      id: no-basis-Patient
-#      uri: http://hl7.no/fhir/StructureDefinition/no-basis-Patient
-#      version: 2.0.10
-#  se-baseprofile:
-#      id: SEBasePatient
-#      uri: http://electronichealth.se/fhir/StructureDefinition/SEBasePatient
-#      version: 0.0.1
-  
